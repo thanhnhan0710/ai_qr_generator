@@ -5,3 +5,4 @@ openpyxl
 qrcode
 Pillow
 python-dotenv
+google-generativeai
